@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color:lightgoldenrodyellow
+        }
+        header{
+        
+            text-align: center;
+            font-size: 80px;
+            color: maroon;
+            margin-top: 33px;
+        }
+        
+       .mainVeg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+nav a {
+            font-size: 20px;
+            float: left;
+            color: #201a10;
+            text-decoration: none;
+            padding: 10px 16px;
+            background-color: #b9ae35cf;
+            margin-bottom: 20PX;
+            margin-right: 10PX;
+        }
+
+        
+        nav {
+           
+            border-radius: 10px;
+            margin-top: 30px;
+            overflow: auto;
+            margin-top: 2px;
+            
+        }
+img{
+    
+    width: 400px;
+    height: 200px;
+}
+.CartAdd:hover{
+     font-size: larger;
+    }
+
+.CartAdd{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: 20px;
+    text-align: center;
+    border: 5px solid rgb(11, 11, 11);
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+
+
+
+
+
+
+
+       
+
+
+    </style>
+</head>
+<body>
+    <header>
+    <u><i>AIRCRAFT OF INDIAN AIRFORCE</i></u></header>
+    <div>
+        <nav>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala.html"><b>Home</b></a>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\3airforce.html"><b>Indian Air Force</b></a>
+        
+        </nav>
+    </div>
+    
+    <div class="mainVeg">
+        
+        <div class="CartAdd">
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aviamix2015-03_%28cropped%29.jpg/480px-Aviamix2015-03_%28cropped%29.jpg" alt="veg">
+            </div>
+            <div>MIG29</div>
+            <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\mig29.html">know more</a></div>
+        </div>
+        
+        <div class="CartAdd">
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/HAL_Tejas_%28LA-5018%29_of_Squadron_18_Flying_Bullets.jpg/480px-HAL_Tejas_%28LA-5018%29_of_Squadron_18_Flying_Bullets.jpg" alt="veg">
+            </div>
+            <div>HEL TEJAS</div>
+            <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\haltejas.html">know more</a></div>
+        </div>
+        <div class="CartAdd">
+            <div><img src="https://i.pinimg.com/originals/3c/dc/85/3cdc85ba2f262262f01cf6aafaf0a333.jpg" alt="veg">
+            </div>
+            <div>HEL RUDRA</div>
+            <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\hal rudra.html">know more</a></div>
+        </div>
+        <div class="CartAdd">
+            <div><img src="https://i.pinimg.com/originals/47/ee/4d/47ee4d92577d1823447f09c99389dd86.jpg" alt="veg">
+            </div>
+            <div>JAGUAR</div>
+            <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\sepeact.html">know more</a></div>
+        </div>
+        <div class="CartAdd">
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Russian_Navy_Kamov_Ka-31.jpg/450px-Russian_Navy_Kamov_Ka-31.jpg" alt="veg">
+            </div>
+            <div>KAMOV KA-31</div>
+            <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\Kamov Ka-31.html">know more</a></div>
+        </div>
+        <div class="CartAdd">
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mirage_2000C_in-flight_2_%28cropped%29.jpg/450px-Mirage_2000C_in-flight_2_%28cropped%29.jpg"  alt="veg">
+            </div>
+            <div>MIGRAGE</div>
+            <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\migrage 200.html">know more</a></div>
+        </div>
+        
+        
+    
+</body>
+</html>
