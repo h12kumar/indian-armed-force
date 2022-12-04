@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>war of indian airforce</title>
+    <style>
+        body {background-color: rgb(137, 216, 245);
+   }
+   
+   header {
+            text-align: center;
+            font-size: 35px;
+            color: rgb(180, 54, 9);
+            margin-top: -36px;
+        }
+   nav a {
+            font-size: 20px;
+            float: left;
+            color: #201a10;
+            text-decoration: none;
+            padding: 10px 16px;
+            background-color: #f4eded;
+            margin-bottom: 20PX;
+            margin-right: 10PX;
+        }
+
+        
+        nav {
+           
+            border-radius: 10px;
+            margin-top: 30px;
+            overflow: auto;
+            margin-top: 2px;
+            
+        }
+        #p8,#p9{
+            
+            width: 45%;
+            height: 300px;
+            
+            margin-left: 21px;
+            margin: 21px;
+            border: 6px solid black
+        }
+        #p2{
+            width: 25%;
+            height: 25%;
+            
+            margin-left: 20px;
+            margin: 20px;
+            border: 4px solid rgba(171, 10, 10, 0.81);
+        }
+    </style>
+<body>
+    <header>
+<h1><u>WAR FOUGHT BY INDIAN AIRFORCE AFTER INDEPENDENCE</u></h1></header>
+    <nav>
+        <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala.html"><b>Home</b></a>
+        <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\3airforce.html"><b>Indian AIRFORCE</b></a>
+         
+    </nav>
+    
+    <div id="intro1">
+        <img src="https://th.bing.com/th/id/R.f16af03710b6a875b2b171d42cd89454?rik=gl5S39gC7gILoQ&riu=http%3a%2f%2fallpicts.in%2fdownload%2f22174%2fIndian_Air_Force_Wallpaper_with_Air_Force_Day_Parade_Photo.jpg&ehk=J4AUYwnraHZH2IsuXGe9qOqvq97FWquUrnVCCB2leX0%3d&risl=&pid=ImgRaw&r=0" id="p8">
+        <img src="https://indiandefenceindustries.in/sites/default/files/styles/mt_slideshow/public/Photo%201.JPG?itok=yUXFiyQP" id="p9">
+    <ul style="list-style-type: square ;"><h2><u><li>FIRST KASHMIR WAR (1947)</li></u></h2></ul>
+    <p><h4>The Indo-Pakistani War of 1947–1948, sometimes known as the First Kashmir War, was fought between India and Pakistan over the princely state of Jammu and Kashmir from 1947 to 1948. It was the first of four Indo-Pakistan Wars fought between the two newly independent nations. Pakistan precipitated the war a few weeks after independence by launching tribal lashkar from Waziristan,in an effort to secure Kashmir, the future of which hung in the balance. The inconclusive result of the war still affects the geopolitics of both countries.The Maharaja faced an uprising by his Muslim subjects in Poonch, and lost control of the western districts of his kingdom. On 22 October 1947, Pakistan's Pashtun tribal militias crossed the border of the state.These local tribal militias and irregular Pakistani forces moved to take Srinagar, but on reaching Baramulla, they took to plunder and stalled. Maharaja Hari Singh made a plea to India for assistance, and help was offered, but it was subject to his signing an Instrument of Accession to India.The war was initially fought by the Jammu and Kashmir State Forces and by tribal militias from the Frontier Tribal Areas adjoining the North-West Frontier Province. Following the accession of the state to India on 26 October 1947, Indian troops were air-lifted to Srinagar, the state capital.</h4></p>
+    <img src="https://s01.sgp1.digitaloceanspaces.com/inline/810386-mcdvzxaqir-1466529008.jpg" id="p2">
+    <ul style="list-style-type: square ;"><h2><u><li>CONGO CRISIS (1961)</li></u></h2></ul>
+    <p><h4>An unusual commitment of the Indian Air Force in the early 1960s was to support the United Nations in the Congo in Central Africa. Following the secession of Katanga, masterminded by commercial interests in Belgium, the UN had appealed for both ground troops and combat aircraft to restore law and order and peace. Six Canberra B (I) 58s of No. 5 Squadron (Tuskers) of the IAF, were thereafter deployed from their home base in Agra to the heart of Africa. Operating from Leopoldville and Kamina, the Canberras were to systematically obliterate the mercenary air force, destroy Katangan targets and generally provide UN ground forces with effective air support.Prior to the induction of Indian Air Force Canberras, a task team of IAF officers headed by Air Vice Marshal Erlic W. Pinto, then AOC-in-C Operational Command, was sent to the strife-ravaged country to assess the prevailing situation, check on availability of operational airfields for operations, navigation aids and general infrastructure. The team included then Group Captain Hassan Shamshi and Squadron Leader (later Air Marshal) SC Lal while the Army had several senior officers including Brigadier (later Lt Gen) Sartaj Singh.</h4></p>
+    <div src="p2">
+        <img src="https://i.pinimg.com/originals/56/68/eb/5668ebd188598b9aea3671ad5d701c71.jpg" id="p2" align="right"></div>
+    <ul style="list-style-type: square ;"><h2><u><li>SINO-INDIAN WAR (1962)</li></u></h2></ul>
+    <p><h4>The Sino-Indian War between China and India occurred in October–November 1962. A disputed Himalayan border was the main cause of the war. There had been a series of violent border skirmishes between the two countries after the 1959 Tibetan uprising, when India granted asylum to the Dalai Lama. India initiated a defensive Forward Policy from 1960 to hinder Chinese military patrols and logistics, in which it placed outposts along the border, including several north of the McMahon Line, the eastern portion of the Line of Actual Control proclaimed by Chinese Premier Zhou Enlai in 1959.
+
+        Chinese military action grew increasingly aggressive after India rejected proposed Chinese diplomatic settlements throughout 1960–1962, with China re-commencing previously-banned "forward patrols" in Ladakh from 30 April 1962.In the midst of the Cuban Missile Crisis, China abandoned all attempts of peaceful resolution on 20 October 1962, invading disputed territory along the 3,225 kilometres (2,004 mi) long Himalayan border in Ladakh and across the McMahon Line.Chinese troops pushed back Indian forces in both theatres, capturing Rezang La in Chushul in the western theatre, as well as Tawang in the eastern theatre. The war ended when China declared a ceasefire on 20 November 1962, and simultaneously announced its withdrawal to its claimed "Line of Actual Control".</h4></p>
+    <ul style="list-style-type: square ;"><h2><u><li>SECOND KASHMIR WAR (1965)</li></u></h2></ul>
+    <p><h4>The genesis of the 1965 War lay in the events of 1947-48 when Pakistan tried to annex the State of Jammu and Kashmir (J&K) by force in the garb of tribal raiders and lashkars. It needs to be said to the credit of Pakistan that inspite of the birth pangs of a new nation state and the trauma of partition they were able to conceive and execute a cross border invasion of J&K to try and achieve their strategic aim. That they could not achieve their aim in entirety is due to the brilliant response by the Indian military which was able to thwart their carefully laid out plans in the nick of time. Another fortunate event for Pakistan was that India decided to go to the United Nations (UN) even while its forces were well poised to evict Pakistani forces from the whole of J&K.In the Northern Areas of the State, the treachery of two British officers, Major WA Brown and Captain Matheson of the Gilgit Scouts whose services had been retained by the State, was greatly responsible for the control of Gilgit to pass into the hands of Pakistan by 03 Nov 1947</h4></p>
+    
+    <ul style="list-style-type: square ;"><h2><u><li>OPERATION MEGHDOOT (1984)</li></u></h2></ul>
+    <p><h4>In 1984, the Indian Army carried out a stunning operation that captured the Siachen Glacier in the northernmost regions of what is now the Union Territory of Ladakh. Since that time, a full brigade of Indian troops has faced off against a similar number of Pakistani soldiers in the highest battlefield on earth. Sustained by a combination of tenuous road supply lines and air support, where helicopter manuals have had to be rewritten, the two countries have had numerous skirmishes that have escalated into the use of artillery fire. Operation Meghdoot tells the story of this conflict. Beginning with the trauma of partition and the first Kashmir war that saw the region divided between India and Pakistan, it progresses to the 1962 Sino-Indian war which saw the Aksai Chin region lost to China and the Shaksgam Valley unilaterally ceded by Pakistan to China. The consequence of this was to allow the development of the Karakoram Pass and highway to link China to Pakistan. In the aftermath of Pakistan’s defeat in the 1971 war, the mapping of the area created sufficient confusion to enable both India and Pakistan to assert their respective claims. This eventually led to Operation Meghdoot which enabled India to secure the entire Siachen glacier, pre-empting Pakistan’s Operation Abadeel. Operation Meghdoot examines the political, geographic and geopolitical imperatives that drove both sides towards conflict in this inhospitable are</h4></p>
+    <img src="https://files.websitebuilder.prositehosting.co.uk/5c/32/5c32c2e4-c394-4e22-856e-a2121637c34d.jpg" id="p2"></div></body></head></html>
