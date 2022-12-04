@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>my webpage</title>
+<style>
+    body{
+        background-color: aquamarine;
+    }
+    header {
+            text-align: center;
+            font-size: 42px;
+            color: rgb(180, 54, 9);
+            margin-top: -36px;
+        }
+        nav a {
+            font-size: 20px;
+            float: left;
+            color: #201a10;
+            text-decoration: none;
+            padding: 10px 16px;
+            background-color: #f4eded;
+            margin-bottom: 20PX;
+            margin-right: 10PX;
+        }
+
+        
+        nav {
+           
+            border-radius: 10px;
+            margin-top: 30px;
+            overflow: auto;
+            margin-top: 2px;
+            
+        }
+        #p8,#p9{
+            width: 45%;
+            height: 300px;
+            
+            margin-left: 20px;
+            margin: 20px;
+            border: 6px solid black
+        }
+        #harsh{width: 35%;
+            height: 35%;
+            
+            margin-left: 20px;
+            margin: 20px;
+            border: 4px solid rgba(171, 10, 10, 0.81);
+        }
+
+</style>
+
+<header>
+    
+    <ul class="harsh" style="list-style-type: square ;"><h1><u><center>ACHIEVMENT OF INDIAN ARMY</center></u></h1></ul></header>
+    <div>
+        <nav>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala.html"><b>Home</b></a>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala2.html"><b>Indian Army</b></a>
+             
+        </nav>
+        <div id="intro1">
+            <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\wp8417211.jpg" id="p8">
+            <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\KMO_148092_00110_1_t222_124334.jpg" id="p9"></div>
+    
+    <ul style="list-style-type: square ;"><h1><u>10 Achievements Of The Indian Army We Are All Proud Of</u></h>
+    <ul style="list-style-type: square ;"><h3><i><li>The Indian Army is the fourth-largest army in the world with 3 million active military personnel, after US, Russia and China. </li></i></h3></ul>
+    <ul style="list-style-type: square ;"><h3><li><i>As per the Defence of Japan 2019 report, India has become the world’s largest ground force leaving China behind. </li></i></h3></ul>
+    <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\women-daredevil-rday.jpg" id="harsh" align="right">
+    <ul style="list-style-type: square ;"><h3><i><li>The Indian Army is the only one to handle the highest battlefield of Siachen Glacier, which is above 5000 meters from the mean sea level.</li></i></h3></ul>
+    <ul style="list-style-type: square ;"><h3><li><i>India has fought 5 wars namely, the Indo-Pak war in 1947, the Indo-China war in 1962, the Indo-Pak war in 1965, the Indo-Pak war in 1971 and, the Kargil war in 1999, none initiated by India</Li></h3></i></ul>
+        
+    <ul style="list-style-type: square ;"><h3><li><i>The Indian army has also undertaken several operations putting up a tough fight with the enemies as well as the terrorists.</li></h3></ul></i>
+    <ul style="list-style-type: square ;"><h3><li><i>The surgical strikes like the Balakot airstrike of 2019, Operation Vijay, of 1999, or Operation Meghdoot, of 1984</li></h3></ul></i>
+    <ul style="list-style-type: square ;"><h3><li><i>Increasing the might of the Indian Army, India now has powerful aircraft like the Rafale Jets and Tejas Aircrafts in its armory</li></h3></ul></i>
+    <div class="harsh">
+        <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\d60dffd749ae1cc437899dcd50587e78.jpg" id="harsh" align="right">
+    </div>
+    <ul style="list-style-type: square ;"><h3><li> <i>the Ministry of Home Affairs decided to start inducting transgenders into paramilitary force.</li></h3></ul></i>
+    <ul style="list-style-type: square ;"><h3><li><i>The 1971 war and the creation of Bangladesh</li></h3></ul></i>
+    <ul style="list-style-type: square ;"><h3><li><i>The Indian army took the role of the primary agency for providing rescue and relief in the aftermath of the Kashmir earthquake</li></h3></ul></i>
+    </ul>
+</head></html>
