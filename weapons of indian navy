@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <style>
+    body{
+        background-color: bisque;
+    }
+     
+    header {
+            text-align: center;
+            font-size: 80px;
+            color: rgb(31, 184, 182);
+            margin-top: 35px;
+        }
+
+    .mainVeg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    }
+    img{
+    
+    width: 400px;
+    height: 200px;
+}
+.CartAdd:hover{
+     font-size: larger;
+    }
+
+.CartAdd{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: 20px;
+    text-align: center;
+    border: 5px solid rgb(81, 4, 4);
+    padding: 20px;
+    background-color: aliceblue;
+}
+nav a {
+            font-size: 20px;
+            float: left;
+            color: #e1b262df;
+            text-decoration: none;
+            padding: 10px 16px;
+            background-color: #c57272;
+            margin-bottom: 20PX;
+            margin-right: 10PX;
+        }
+
+        
+        nav {
+           
+            border-radius: 10px;
+            margin-top: 30px;
+            overflow: auto;
+            margin-top: 2px;
+            
+        }
+</style>
+<header>
+<u><i>WEAPONS OF INDIAN NAVY</i></u></header>
+<div>
+    <nav>
+        <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala.html"><b>Home</b></a>
+        <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\4navy.html"><b>Indian Navy</b></a>
+        
+    </nav>
+    
+</div>
+<div class="mainVeg">
+        
+    <div class="CartAdd">
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Prithvi-II_missile_launch_on_11_March_2011_%28cropped%29.jpg/363px-Prithvi-II_missile_launch_on_11_March_2011_%28cropped%29.jpg" alt="veg">
+        </div>
+        <div>DHANUSH</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html project\Dhanush.html">know more</a></div>
+    </div>
+    
+    <div class="CartAdd">
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Harpoon_asm_bowfin_museum.jpg/450px-Harpoon_asm_bowfin_museum.jpg" alt="veg">
+        </div>
+        <div>Harpoon</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\Harpoon (missile).html">know more</a></div>
+    </div>
+    <div class="CartAdd">
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Astrabvraam.png/450px-Astrabvraam.png" alt="veg">
+        </div>
+        <div>Astra</div>
+        <div><a herf="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html project\Astra.html">know more</a></div>
+    </div>
+    <div class="CartAdd">
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/VL-SRSAM_tested_from_vertical_launch_system.jpg/372px-VL-SRSAM_tested_from_vertical_launch_system.jpg" alt="veg">
+        </div>
+        <div>VL-SRSAM</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html project\VL-SRSAM.html">know more</a></div>
+    </div>
+    <div class="CartAdd">
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vympel-R-77-maks2009.jpg/480px-Vympel-R-77-maks2009.jpg" alt="veg">
+        </div>
+        <div>R-77</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\R-77 missile.html">know more</a></div>
+    </div>
+    <div class="CartAdd">
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hiddensee_AK-176_gun.jpg/480px-Hiddensee_AK-176_gun.jpg" alt="veg">
+        </div>
+        <div>AK-176-M 76mm gun</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html project\AK-176-M 2.html">know more</a></div>
+    </div>
+</html>
+    
