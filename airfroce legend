@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>lpu</title>
+</head>
+    <style>
+           
+    header {
+            text-align: center;
+            font-size: 80px;
+            color: rgb(98, 17, 8);
+            margin-top: 35px;
+        }
+        body{
+            background-color:rgb(206, 189, 93)
+        }
+        .mainVeg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    }
+    img{
+    
+    width: 400px;
+    height: 200px;
+}
+.CartAdd:hover{
+     font-size: larger;
+    }
+
+.CartAdd{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: 20px;
+    text-align: center;
+    border: 5px solid rgb(12, 12, 12);
+    padding: 20px;
+    background-color: rgba(191, 237, 145, 0.747);
+}
+
+nav a {
+            font-size: 20px;
+            float: left;
+            color: #201a10;
+            text-decoration: none;
+            padding: 10px 16px;
+            background-color: #f4eded;
+            margin-bottom: 20PX;
+            margin-right: 10PX;
+        }
+
+        
+        nav {
+           
+            border-radius: 10px;
+            margin-top: 30px;
+            overflow: auto;
+            margin-top: 2px;
+            
+        }
+    </style>
+    <header>
+        <i><u>LENGEND OF INDIAN AIRFORCE</u></i>
+    </header>
+    <div>
+        <nav>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala.html"><b>Home</b></a>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\3airforce.html"><b>Indian Air Force</b></a>
+        
+        </nav>
+    </div>
+   <div class="mainVeg">
+        
+    <div class="CartAdd">
+        <div><img src="https://defencestories.files.wordpress.com/2019/04/d39uq-pw0aawwwa.jpg" alt="veg">
+        </div>
+        <div>AIR Marshal IAF Arjan Singh</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\arjan.html"> know more</a></div>
+    </div>
+    
+    <div class="CartAdd">
+        <div><img src="https://republic-imagekit.azureedge.net/republic-prod/stories/images/xxhdpi/15657632205d53a6946a0b1.jpeg" alt="veg">
+        </div>
+        <div>Abhinandan Varthaman</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\abhi.html">know more</a></div>
+    </div>
+    <div class="CartAdd">
+        <div><img src="https://afcat.cdac.in/AFCAT/assets/images/legends/SubrotoMukerjee.jpg" alt="veg">
+        </div>
+        <div>Air Marshal Subroto Mukerjee</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\c3.html">know more</a></div>
+    </div>
+    <div class="CartAdd">
+        <div><img src="https://afcat.cdac.in/AFCAT/assets/images/legends/OmprakashMehra.jpg" alt="veg">
+        </div>
+        <div>Air Chief Marshal Om Prakash Mehra</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\om.html">know more</a></div>
+    </div>
+    <div class="CartAdd">
+        <div><img src="https://afcat.cdac.in/AFCAT/assets/images/legends/LakshmanMadhavKatre.jpg" alt="veg">
+        </div>
+        <div>Air Chief Marshal MADHAVK</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\c4.html">know more</a></div>
+    </div>
+    <div class="CartAdd">
+        <div><img src="https://www.latestserialgossip.com/wp-content/uploads/2020/07/rakesh-sharma-biopic.jpg" alt="veg">
+        </div>
+        <div>Wing Commander Rakesh Sharma</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\air.html">know more</a></div>
+    </div>
+   </div></html>
