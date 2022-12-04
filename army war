@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    body {
+        background-color: rgb(153, 235, 135);
+       
+    }
+    header {
+        font-family: 'Baloo Bhai 2';
+        text-align: center;
+        font-size: 40px;
+        color: rgb(124, 10, 10);
+        margin-top: -35px;
+    }
+    nav a {
+            font-size: 20px;
+            float: left;
+            color: #201a10;
+            text-decoration: none;
+            padding: 10px 16px;
+            background-color: #f4eded;
+            margin-bottom: 20PX;
+            margin-right: 10PX;
+        }
+
+        
+        nav {
+           
+            border-radius: 10px;
+            margin-top: 30px;
+            overflow: auto;
+            margin-top: 2px;
+            
+        }
+        #p8,#p9{
+            
+            width: 45%;
+            height: 300px;
+            
+            margin-left: 21px;
+            margin: 21px;
+            border: 6px solid black
+        }
+        #p2{
+            width: 25%;
+            height: 25%;
+            
+            margin-left: 20px;
+            margin: 20px;
+            border: 4px solid rgba(133, 32, 32, 0.81);
+        }
+</style>
+</head>
+<body>
+    <header>
+    <i><b><h1><u>WARS FOUGHT BY INDIAN ARMY AFTER INDEPENDENCE</u></h1></b></i></header>
+    <nav>
+        <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala.html"><b>Home</b></a>
+        <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala2.html"><b>Indian ARMY</b></a>
+         
+    </nav>
+    <div id="intro1">
+        <img src="https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/15/original/army_PTI1_15_2020_000078B.jpg" id="p8">
+        <img src="https://s01.sgp1.digitaloceanspaces.com/large/827740-50157-icqzlvnhsg-1485422428.jpg" id="p9">
+    <ul style="list-style-type: square ;"><h2><u><li>1947-INDO PAK WAR</li></u></h2></ul>
+    
+
+ <p><h4>The war, also called the First Kashmir War, started in October 1947 when Pakistan feared that the Maharaja of the princely state of Kashmir and Jammu would accede to India. Following partition, princely states were left to choose whether to join India or Pakistan or to remain independent. Jammu and Kashmir, the largest of the princely states, had a majority Muslim population and significant fraction of Hindu population, all ruled by the Hindu Maharaja Hari Singh. Tribal Islamic forces with support from the army of Pakistan attacked and occupied parts of the princely state forcing the Maharaja to sign the Instrument of Accession of the princely state to the Dominion of India to receive Indian military aid. The UN Security Council passed Resolution 47 on 22 April 1948. The fronts solidified gradually along what came to be known as the Line of Control. A formal cease-fire was declared at 23:59 on the night of 1 January 1949.India gained control of about two-thirds of the state (Kashmir Valley, Jammu and Ladakh) whereas Pakistan gained roughly a third of Kashmi. The Pakistan controlled areas are collectively referred to as Pakistan administered Kashmir.</h4></p>
+ <ul style="list-style-type: square ;"><h2><u><li>1962-INDIA CHINA WAR</li></u></h2></ul>
+ <div src="p2">
+    <embed src="https://i.pinimg.com/originals/46/ab/74/46ab748f2f5bfbf37fb57721e0e4f62a.jpg" align="right" id="p2">
+ </div>
+<p><h4>The Sino-Indian War between China and India occurred in October–November 1962. A disputed Himalayan border was the main cause of the war. There had been a series of violent border skirmishes between the two countries after the 1959 Tibetan uprising, when India granted asylum to the Dalai Lama. India initiated a defensive Forward Policy from 1960 to hinder Chinese military patrols and logistics, in which it placed outposts along the border, including several north of the McMahon Line, the eastern portion of the Line of Actual Control proclaimed by Chinese Premier Zhou Enlai in 1959. Chinese military action grew increasingly aggressive after India rejected proposed Chinese diplomatic settlements throughout 1960–1962, with China re-commencing previously-banned "forward patrols" in Ladakh from 30 April 1962. In the midst of the Cuban Missile Crisis, China abandoned all attempts of peaceful resolution on 20 October 1962, invading disputed territory along the 3,225 kilometres (2,004 mi) long Himalayan border in Ladakh and across the McMahon Line.Chinese troops pushed back Indian forces in both theatres, capturing Rezang La in Chushul in the western theatre, as well as Tawang in the eastern theatre. The war ended when China declared a ceasefire on 20 November 1962, and simultaneously announced its withdrawal to its claimed "Line of Actual Control".</h4></p>
+<ul style="list-style-type: square ;"><h2><u><li>1965 – INDO-PAKISTAN WAR</li></u></h2></ul>
+
+<p><h4>The Indo-Pakistani War of 1965 or the Second Kashmir War was a culmination of skirmishes that took place between April 1965 and September 1965 between Pakistan and India. The conflict began following Pakistan's Operation Gibraltar, which was designed to infiltrate forces into Jammu and Kashmir to precipitate an insurgency against Indian rule. It became the immediate cause of the war. The seventeen-day war caused thousands of casualties on both sides and witnessed the largest engagement of armored vehicles and the largest tank battle since World War II. Hostilities between the two countries ended after a ceasefire was declared through UNSC Resolution 211 following a diplomatic intervention by the Soviet Union and the United States, and the subsequent issuance of the Tashkent Declaration. Much of the war was fought by the countries' land forces in Kashmir and along the border between India and Pakistan. This war saw the largest amassing of troops in Kashmir since the Partition of India in 1947, a number that was overshadowed only during the 2001–2002 military standoff between India and Pakistan. Most of the battles were fought by opposing infantry and armoured units, with substantial backing from air forces, and naval operations.</h4></p>
+<ul style="list-style-type: square ;"><h2><u><li>1999-KARGIL WAR</li></u></h2></ul>
+    <p><h4>The Kargil War, also known as the Kargil conflict, was an armed conflict between India and Pakistan that took place between May and July 1999 in the Kargil district of Kashmir. The cause of the war was the infiltration of Pakistani soldiers and Kashmiri militants into positions on the Indian side of the Line of Control, which serves as the de facto border between the two nations. Pakistan blamed the fighting entirely on independent Kashmiri insurgents; however, documents left behind by casualties and later statements by Pakistan's Prime Minister and Chief of Army Staff showed involvement of Pakistani paramilitary forces. The Indian Army, supported by the air force, attacked the Pakistani positions and, with international diplomatic support, eventually forced a Pakistani withdrawal across the Line of Control (LoC). The war is one of the most recent examples of high altitude warfare in mountainous terrain, and posed significant logistical problems for the combating sides. This was the first ground war between the two countries after they had developed nuclear weapons. (India and Pakistan both test-detonated fission devices in May 1998, though the first Indian nuclear test was conducted in 1974.) The conflict led to heightened tensions between the two nations and increased defence spending on the part of India. In Pakistan, the aftermath caused instability to the government and the economy, and on October 12, 1999 a coup d'etat by the military placed army chief Pervez Musharraf in power.</h4></p>
+    <embed src="https://cdiic.in/assets/images/defence/army.jpg"  id="p2">
+</body>
+</html>
