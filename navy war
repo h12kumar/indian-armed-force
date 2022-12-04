@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>war</title>
+        <body>
+
+        <style>
+             body{
+                background-color: rgba(134, 234, 184, 0.96);
+             }
+             nav a {
+            font-size: 20px;
+            float: left;
+            color: #201a10;
+            text-decoration: none;
+            padding: 10px 16px;
+            background-color: #f4eded;
+            margin-bottom: 10PX;
+            margin-right: 10PX;
+        }
+
+        
+        nav {
+           
+           border-radius: 20px;
+           margin-top: 30px;
+           overflow: auto;
+           margin-top: 2px;
+           
+       }
+             header {
+            text-align: center;
+            font-size: 30px;
+            color: maroon;
+            margin-top: -36px;
+        }
+            #pc1,#pc2{width:45%;
+            height: 300px;;
+            
+            margin-left: 20px;
+            margin: 20px;
+            border: 6px solid black;
+            }
+            #p1{
+                
+            width: 28%;
+            height: 28%;
+            margin-left: 20px;
+            margin: 15px;
+            border: 5px solid rgb(56, 54, 54);
+
+        }
+            
+        </style>
+        <header>
+        
+    <ul style="list-style-type: square ;"><h1><u><i><center>WARS FOUGHT BY INDIAN NAVY </center></i></u></h1></ul></header>
+    <nav>
+        <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala.html"><b>Home</b></a>
+        <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\4navy.html"><b>Indian NAVY</b></a></nav>
+         
+    <div class="pc">
+        <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\wp2915386.webp" id="pc1">
+        <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\R (2).jpg" id="pc2">
+    </div>
+    <ul style="list-style-type: square ;"><h2><u><li>Annexation of Goa, 1961</li></u></h2></ul>
+    <p><h3>The Annexation of Goa was the process in which the
+            Republic of India annexed Estado da Índia, the then Portuguese
+            Indian territories of Goa, Daman and Diu, starting with the armed
+            action carried out by the Indian Armed Forces in December 1961. In
+            India, this action is referred to as the "Liberation of Goa". In
+            Portugal, it is referred to as the "Invasion of Goa". Jawaharlal Nehru
+            had hoped that the popular movement in Goa and the pressure of
+            world public opinion would force the Portuguese Goan authorities
+            to grant it independence but since it did not have any effect, he
+            decided to take it by force. Dadra and Nagar Haveli had already
+            been declared independent by the locals. After Indian Independence
+            from the United Kingdom and the subsequent Partition of India and Pakistan, a few pockets in the Konkan region
+            called "Portuguese India" were among the last colonies in Asia.</h3></p>
+            <img src="https://th.bing.com/th/id/OIP.mMM9PgDzhe07Fl5mH1bISQHaEK?pid=ImgDet&rs=1" id="p1" align="right">
+    <ul style="list-style-type: square;"><h2><u><i><li>Indo-Pakistani war of 1965</li></i></u></h2></ul>
+    <p><h3>he 1965 war between India and Pakistan was the second conflict between the two countries over the status of the state of Jammu and Kashmir. The clash did not resolve this dispute, but it did engage the United States and the Soviet Union in ways that would have important implications for subsequent superpower involvement in the region.
+
+            The dispute over this region originated in the process of decolonization in South Asia. When the British colony of India gained its independence in 1947, it was partitioned into two separate entities: the secular nation of India and the predominantly Muslim nation of Pakistan. Pakistan was composed of two noncontiguous regions, East Pakistan and West Pakistan, separated by Indian territory. The state of Jammu and Kashmir, which had a predominantly Muslim population but a Hindu leader, shared borders with both India and West Pakistan. The argument over which nation would incorporate the state led to the first India-Pakistan War in 1947-48 and ended with UN mediation. Jammu and Kashmir, also known as "Indian Kashmir" or just "Kashmir," joined the Republic of India, but the Pakistani Government continued to believe that the majority Muslim state rightfully belonged to Pakistan.
+            
+            Conflict resumed again in early 1965, when Pakistani and Indian forces clashed over disputed territory along the border between the two nations. Hostilities intensified that August when the Pakistani army attempted to take Kashmir by force.</h3></p>
+            
+    <ul style="list-style-type: square;"><h2><u><li><i>Indo-Pakistani war of 1971</i></li></u></h2></ul>
+    
+    <p><h3>December 16 is a significant day for India and its neighbours Bangladesh and Pakistan. In 1971, India won the war against Pakistan that resulted in the birth of Bangladesh (then East Pakistan).
+
+        On this day 47 years ago, Pakistan lost half its country, its forces in the East, and had to publicly surrender to India. It was also the largest military surrender after World War II.
+        
+        The war started when Pakistan launched air strikes on 11 Indian airbases. It was perhaps the first time in which India's all three forces fought in unison.
+        
+        India quickly responded to Pakistan Army's movements in the west and captured around 15,010 kilometres of Pakistan territory.The war ended after the chief of the Pakistani forces, General Amir Abdullah Khan Niazi, along with 93,000 troops, surrendered to the joint forces of Indian Army and Bangladesh's Mukti Bahini.
+
+        General A A K Niazi signed the Instrument of Surrender on 16 December 1971 in Dhaka, marking the formation of East Pakistan as the new nation of Bangladesh.</h3></ul></p>
+        <img src="https://th.bing.com/th/id/R.f693928aff8aab4e035e5a5379b6e709?rik=dkSgEfxBgPx5Uw&riu=http%3a%2f%2fcdn.wionews.com%2fsites%2fdefault%2ffiles%2f2018%2f09%2f12%2f15654-000_sapa980514475020-20161216071150.jpg&ehk=GgggDln09%2f8ijhReM%2bC5q7DKRm2XPSNxa6UURn1%2bquI%3d&risl=&pid=ImgRaw&r=0" id="p1">
+    <ul style="list-style-type: square;"><h2><u><li><i>Operations after 1971</i></li></u></h2></ul>
+     <p><h3>As India and her Armed Forces celebrate the 50th anniversary of the nation’s glorious victory in the 1971 operations against Pakistan which led to the birth of a new nation — Bangladesh — it is also an opportune time to introspect regarding our military preparedness for the impending future. That India, under the indomitable political leadership of Prime Minister Indira Gandhi combined with the uncommon professionalism, matchless valour and dogged determination of its men in uniform and its enlightened military leadership won for India, perhaps, its finest victory ever in its long history, cannot be debated. As India, rightfully and joyously, relives those rare moments, the current challenges confronting the nation and those likely to emerge in the foreseeable future necessitate deliberate analyses for India’s security and well-being. It is not always that history displays a propensity for repeating itself but inadequacies in military preparedness — rather not addressing and synergising various constituents of Comprehensive National Power (CNP) — can lead to serious consequences for any nation.</h3></p>
+     <div class="p1">
+     <img src="https://www.orissapost.com/wp-content/uploads/2019/05/Indian-navy.jpg" id="p1"></div>
+    </head>
+</html>
