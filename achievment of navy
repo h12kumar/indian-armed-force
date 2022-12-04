@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>lpu</title><header><h1><u><center>ACHIEVMENT OF INDIAN NAVY</center></u></h1></header>
+    <style>
+        body{
+            background-color: rgb(140, 223, 140);
+        }
+        
+        header {
+            text-align: center;
+            font-size: 39px;
+            color: rgb(237, 88, 34);
+            margin-top: -36px;
+        }
+        nav a {
+            font-size: 20px;
+            float: left;
+            color: #201a10;
+            text-decoration: none;
+            padding: 10px 16px;
+            background-color: #f6de68;
+            margin-bottom: 20PX;
+            margin-right: 10PX;
+        }
+
+        
+        nav {
+           
+           border-radius: 10px;
+           margin-top: 30px;
+           overflow: auto;
+           margin-top: 2px;
+           
+       }
+       #p1,#p2{
+        width: 45%;
+            height: 300px;
+            
+            margin-left: 21px;
+            margin: 21px;
+            border: 6px solid black
+       }
+       #bn{
+        width: 25%;
+            height:25%;
+            margin-right: 25px;
+            border:5px solid rgba(122, 31, 31, 0.726);
+       }
+    </style>
+    <div>
+        <nav>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala.html"><b>Home</b></a>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\4navy.html"><b>Indian NAVY</b></a>
+             
+        </nav>
+        <div calss="intro">
+            <img src="https://th.bing.com/th/id/R.c7d84209af44fd9c82cd2fe138344cba?rik=McKp39yD%2bPInUg&riu=http%3a%2f%2fwww.indiandefencereview.com%2fwp-content%2fgallery%2fnew-naval-chief%2fadmiral_rk-dhowan_new_cnc_1.jpg&ehk=nNaNoTPHTMcKITjV8IEkAe5KdXslhO5iNgviMHyb2XY%3d&risl=&pid=ImgRaw&r=0" id="p1">
+            <img src="https://th.bing.com/th/id/R.1a82da22d6f06100fbcd329ba98157b6?rik=lLxqhhqXpl5A%2fA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-5l3XAqjcCHQ%2fVYQVb65wS-I%2fAAAAAAAAUiU%2fkUPlxkpRS14%2fs1600%2f003.jpg&ehk=giB8hozGsIdEmrKx499RFJPqik07Nyl4XUY9WmjeB6M%3d&risl=&pid=ImgRaw&r=0" id="p2">
+        </div>
+    <ul style="list-style-type: square ;"><h2><li><b><u>Operation Sankalp<br></u></b></li></h2><h3><i>the increasing US – Iran tensions in the Gulf region, since June 2019, IN has been undertaking Maritime Security Operation code-named Op SANKALP in the Gulf Region to ensure safe passage of Indian Flag Merchant Vessels (IFMVs) transiting through the Strait of Hormuz. Since execution, IN has deployed 16 warships and escorted approximately 161 Lakh Tonnes of cargo onboard 156 IFMVs, thereby provided a sense of reassurance to our seafarers, and protecting Indian owned hulls and the trade embarked on them.</h3></i></ul>
+    <div class="bn">
+        <img src="https://th.bing.com/th/id/R.cd598e01b5241a5a6b9f6864d4cad87b?rik=DXHXKJWmGGUR%2fQ&riu=http%3a%2f%2fnavyrecognition.com%2fimages%2fstories%2fnews%2f2019%2foctober%2fIndian_Navy_First_Training_Squadron_at_Mombasa_Kenya_925_001.jpg&ehk=utGM7JJQUGNwv2zsh822xL6JQ861jyKFmiD0yqT50qA%3d&risl=&pid=ImgRaw&r=0" id="bn">
+    </div>
+    <ul style="list-style-type: square ;"><h2><li><b><u>Operation Samudra Setu<br></u></b></li></h2><h3><i>ships Jalashwa, Shardul, Airavat and Magar were deployed from May – July 2020 for Operation Samudra Setu to undertake repatriation of stranded Indian Nationals in the wake of COVID-19, from Iran, Maldives and Sri Lanka. IN ships deployed for Op Samudra Setu evacuated 3992 Indian Nationals including 3551 males, 387 females and 54 children.</i></h3></ul>
+    <ul style="list-style-type: square ;"><h2><li><u><b>INDRA NAVY 2020<br></b></u></li></h2><h3><i>IN and Russian Federation Navy (RuFN) bilateral exercise Indra Navy was conducted in Bay of Bengal from 04-05 September 2020. RuFN ships Admiral Tributs, Admiral Vinogrodov, Boris Butoma and IN ships Ranvijay, Kiltan, Shakti participated in the exercise.</i></h3></ul>
+    <img src="https://nationalinterest.org/sites/default/files/styles/desktop__1486_x_614/public/main_images/indiannavy.jpg?itok=PlWO99ft" id="bn">
+    <ul style="list-style-type: square ;"><h2><li><u><b>UN World Food Programme (UN WFP) Escort Mission<br></b></u></li></h2><h3><i>IN has been contributing to UN WFP efforts by providing security to vessels carrying food to East African nations. INS Airavat escorted UN WFP chartered ship MV Juist carrying relief food cargo from Berbera to Mogadishu in Somalia from 05–14 June 2020, under challenging sea/ weather conditions. This was the third WFP escort mission undertaken by the IN in last three years.</i></h3></ul>
+    <ul style="list-style-type: square ;"><h2><li><u><b>BONGO SAGAR 2020<br></b></u></li></h2><h3><i>IN and Bangladesh Navy (BN) bilateral exercise Bongosagar 2020 was conducted in North Bay of Bengal from 03-04 October 2020. BN ships Prottoy and Abu Bakr along with Maritime Patrol Aircraft and IN ships Khukri and Kiltan along with Dornier aircaft and integral helicopter participated in the exercise.</i></h3></ul>
+    <img src="https://th.bing.com/th/id/R.2f9848563d5ee07b5be0879e18346cbf?rik=MOyXTFEZsQOy3Q&riu=http%3a%2f%2fwww.storypick.com%2fwp-content%2fuploads%2f2016%2f04%2fMARCOS-12.jpg&ehk=dTQBhFQRwU%2b%2bH2QW%2fktxkjhaOmp4Ay4HGzld8onI0xA%3d&risl=&pid=ImgRaw&r=0" id="bn">
+    <ul style="list-style-type: square ;"><h2><li><u><b>Assistance to Philippine Naval Ship<br></b></u></li></h2><h3><i>Navy (PN) Ships BRP Ramon Alcaraz and BRP Davao Del entered Kochi harbour on May 06, 2020 for embarkation of Philippine nationals and collection of COVID-19 face masks. The ships departed on May 07, 2020. Post leaving harbour, there was an incident of fire onboard Ramon Alcaraz on 07 May 20, the ship returned to Kochi on May 08, 2020. Two PN sailors who had suffered burns and were evacuated to INHS Sanjivani. One sailor was found to be in a more serious condition and post initial treatment was transferred to Command Hospital Bangalore on May 12, 2020 by Military Air Ambulance.</ul>
+    <ul style="list-style-type: square ;"><h2><li><u><b>MALABAR 2020<br></b></u></li></h2><h3><i>exercise between IN and US Navy (USN), Japanese Maritime Self Defence Force (JMSDF) ships and Royal Australian Navy (RAN) was conducted in the IOR from 03-06 and 17 November 2020.</i></h3></ul>
+    <ul style="list-style-type: square ;"><h2><li><u><b>SLINEX 2020<br></b></u></li></h2><h3><i>IN Sri Lanka Navy (SLN) bilateral exercise SLINEX 2020 was conducted in the Bay of Bengal from 19-21 October 2020. SLN ships Sayura and Gajabahu and IN ships Kiltan and Kamorta along with Dornier aircraft and integral helicopters participated in the exercise. Maiden landing of Advanced Landing Helicopter (ALH) was undertaken onboard SLN Ship Gajabahu during the exercise, to showcase IN’s indigenous capability.</i></h3></ul>
+    <img src="https://cdn.offshorewind.biz/wp-content/uploads/sites/10/2020/07/13122943/philippine_navy.png" id="bn" >
+    </div>
+    </html>
