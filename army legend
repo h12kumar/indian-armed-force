@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        body{
+            background-color: rgb(50, 112, 91);
+        }
+        header {
+            text-align: center;
+            font-size: 80px;
+            color:brown;
+            margin-top: 35px;
+        }
+    .mainVeg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    }
+    img{
+    
+    width: 400px;
+    height: 200px;
+}
+.CartAdd:hover{
+     font-size: larger;
+    }
+
+.CartAdd{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: 20px;
+    text-align: center;
+    border: 5px solid rgb(17, 16, 16);
+    padding: 20px;
+    background-color: rgb(166, 179, 190);
+}
+nav a {
+            font-size: 20px;
+            float: left;
+            color: #b78530df;
+            text-decoration: none;
+            padding: 10px 16px;
+            background-color: #e7d7d7d5;
+            margin-bottom: 20PX;
+            margin-right: 10PX;
+        }
+
+        
+        nav {
+           
+            border-radius: 10px;
+            margin-top: 30px;
+            overflow: auto;
+            margin-top: 2px;
+            
+        }
+    </style>
+    <header>
+        <i><u>LEGENd OF INDIAN ARMY</u></i>
+    </header>
+
+    <div>
+        <nav>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala.html"><b>Home</b></a>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala2.html"><b>Indian Army</b></a>
+             
+        </nav>
+    </div>
+   
+<div class="mainVeg">
+        
+    <div class="CartAdd">
+        <div><img src="https://lifestyleonthego.com/wp-content/uploads/2021/08/vikram-batra.jpeg" alt="veg">
+        </div>
+        <div>CAPT.BATRA</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html project\capt batra.html">know more</a></div>
+    </div>
+    
+    <div class="CartAdd">
+        <div><img src="https://th.bing.com/th/id/OIP._9zx37VX8AmsQnBynsinPgEsCf?w=317&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="veg">
+        </div>
+        <div>SAURABH KALIYA</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html project\kaliya.html">know more</a></div>
+    </div>
+    <div class="CartAdd">
+        <div><img src="https://th.bing.com/th/id/OIP.FykFWfauJA8ZDCnHYtthvQHaES?w=293&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="veg"></div>
+        <div>MANOJ PANDEY</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html project\manoj .html">know more</a></div>
+    </div>
+    <div class="CartAdd">
+        <div><img src="https://th.bing.com/th/id/OIP.lpck_TvePiS5-ByaaOUmEAHaDZ?w=290&h=160&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="veg">
+        </div>
+        <div>JASWANT RAWAT</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html project\Rifleman Jaswant Singh Rawat.html">know more</a></div>
+    </div>
+    <div class="CartAdd">
+        <div><img src="https://imagevars.gulfnews.com/2019/08/26/190826-Arun-Khetarpal_16ccde58096_original-ratio.jpg" alt="veg">
+        </div>
+        <div>ARUN KATHERPAL</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html project\arun.html">know more</a></div>
+    </div>
+    <div class="CartAdd">
+        <div><img src="https://img.mobygeek.com/resize/730x-/2019/09/04/subedar-yogendra-singh-yadav-5eb4.jpg" alt="veg">
+        </div>
+        <div>YK SINGH</div>
+        <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html project\yk singh.html">know more</a></div>
+    </div>
+    
