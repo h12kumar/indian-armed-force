@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <title>hvbjk</title>
+<head>
+    <style>
+        body{
+            background-color:mediumaquamarine
+        }
+      
+            nav a {
+            font-size: 20px;
+            float: left;
+            color: #201a10;
+            text-decoration: none;
+            padding: 10px 16px;
+            background-color: #f4eded;
+            margin-bottom: 20PX;
+            margin-right: 10PX;
+        }
+
+        
+        nav {
+           
+           border-radius: 10px;
+           margin-top: 30px;
+           overflow: auto;
+           margin-top: 2px;
+           
+       }
+        
+        header {
+            text-align: center;
+            font-size: 39px;
+            color: rgb(180, 54, 9);
+            margin-top: -36px;
+        }
+        #p3,#p2{
+            width: 45%;
+            height: 300px;
+            
+            margin-left: 21px;
+            margin: 21px;
+            border: 6px solid black
+        }
+        #kumar{
+            width: 35%;
+            height: 35%;
+            
+            margin-left: 20px;
+            margin: 20px;
+            border: 4px solid rgba(171, 10, 10, 0.81);
+        }
+        #kumars{
+            width: 37%;
+            height: 37%;
+            
+            margin-left: 20px;
+            margin: 20px;
+            border: 4px solid rgba(0, 0, 0, 0.81);
+
+        }
+    </style>
+<title>my webpage</title>
+<header>
+<ul style="list-style-type: square ;"><h1><u><center>ACHIEVMENT OF INDIAN AIRFORCE</center></u></h1></ul></header>
+<div>
+    <nav>
+        <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala.html"><b>Home</b></a>
+        <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\3airforce.html"><b>Indian AIRFORCE</b></a>
+         
+    </nav>
+    <div id="intro1">
+        <img src="https://akm-img-a-in.tosshub.com/sites/dailyo/fb_feed_images/story_image/201610/1024indian-air-force_100816030339.jpg" id="p3">
+        <img src="https://th.bing.com/th/id/R.13e452193c6b335b744cd896dff3e96d?rik=g1aeGrknncLPgA&riu=http%3a%2f%2fssbcrack.com%2fwp-content%2fuploads%2f2015%2f10%2fIndian-Air-Force-Day-11.jpg&ehk=Rk8cA8%2bSFTvEdAdKtLRsi8jPmlRCLb0255Ei%2brkkJJc%3d&risl=&pid=ImgRaw&r=0" id="p2">
+<ul style="list-style-type: square ;"><h2><li><u>Rafale<br></u></li></h2><h3><i>Rafale aircraft have been ferried to India from France and are fully operationalised. First Sqn of Rafale was successfully inducted in Sep 20 with necessary assets and infrastructure.</i></h1></h3></ul>
+<ul style="list-style-type: square ;"><h2><li><u> Successful Integration of BrahMos Air Launched Missile on Su-30 MKI Aircraft<br></u></li></h2><h3><i>IAF successfully integrated BrahMos air version missile, on Su-30 MKI aircraft. The BrahMos missile provides Indian Air Force a much desired capability to strike from large stand-off ranges on any target at sea or on land with pinpoint accuracy by day or night and in all weather conditions.</i></h3></ul>
+<ul style="list-style-type: square ;"><h2><li><u>Atmanirbhar Bharat<br></u></li></h2><h3><i>actively supports the national vision of ‘Atmanirbhar Bharat’. It has been an endeavour of IAF to avail various schemes launched by GoI and provide impetus to the process of self-reliance in Defence Manufacturing. Following is an update on the various schemes under Make in India initiative.</h3></i></ul>
+<div class="kumar">
+    <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\R (3).jpg" id="kumar">
+</div>
+<ul style="list-style-type: square ;"><h2><li><u>Efficient Use of Indian Airspace<br></u></li></h2><h3><i>Air Force (IAF) and the Ministry of Civil Aviation (MoCA) have jointly formed a mechanism for efficient use of Indian Airspace.  To achieve this, the National Airspace Management Cell (NAMC) was made operational from 30 Jul 20 and the Regional Airspace Management Cell (RAMC), Chennai from
+    02 Dec 20. It is jointly manned by officers from IAF and AAI.</h3></i></ul>
+<ul style="list-style-type: square ;"><h2><li><u>Modernisation of Airfield Infrastructure (MAFI)<br></u></li></h2><h3><i>08 May 20, MAFI Phase-II contract for 37 airfields was signed by the MoD with M/s Tata Power SED (TPSED) at a cost of Rs 1189.44 Cr. The up-gradation of navigational aids and infrastructure under this project enhances the operational capability by facilitating air operations of military and civil aircraft even in poor visibility and adverse weather while enhancing Aerospace Safety.The MAFI Phase-I project was completed on 15 Dec 19 which involved modernisation of 30 airfields of Indian Air Force. The 37 airfields of MAFI Phase-II include 24 of Indian Air Force (IAF), nine of Indian Navy (IN), and four of other services.</i></h3></ul>
+<ul style="list-style-type: square ;"><h2><li><u>Locust Spray by IAF Helicopters<br></u></li></h2><h3><i>of Agriculture had requested for helicopters to be employed for spraying purposes to control spread of locusts. IAF carried out modification of two Helicopters in quick time for the task, which were then used aerial spraying in Rajasthan and Gujarat states.</i></h3></ul>
+<div class="kumars">
+<img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\OIP (3).jpg" id="kumars" align="right">
+</div>
+<ul style="list-style-type: square ;"><h2><li><u>Joint Use of Defence Airfield under RCS Udan Scheme<br></u></li></h2><h3><i>IAF has been actively interacting with MoCA/ AAI for sharing its airports and airspace for supporting the increased demands of civil aviation. Accordingly, seven more defence airfields have been opened for joint useto accommodate civil scheduled flights as part of RCS UDAN Scheme in last one year. Scheduled flight operations have commenced from Darbhanga airfield from 08 Nov 20. 39 IAF bases & 7 ALGs have been made available for joint user operations.</i></h3></ul>
