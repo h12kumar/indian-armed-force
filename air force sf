@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garuds</title>
+    <style>
+        body {
+            background-color: skyblue;
+            background-image: url('');
+            background-repeat: repeat-y;
+        }
+
+        
+        header {
+            text-align: center;
+            font-size: 40px;
+            color: maroon;
+            margin-top: -33px;
+        }
+
+        #img1 {
+            position:relative;
+            right: 120px;
+            top: 19px;
+            width: 160px;
+        }
+
+       
+       
+        nav a {
+            font-size: 20px;
+            float: left;
+            color: #201a10;
+            text-decoration: none;
+            padding: 10px 16px;
+            background-color: #f4eded;
+            margin-bottom: 20PX;
+            margin-right: 10PX;
+        }
+
+        
+        nav {
+           
+            border-radius: 10px;
+            margin-top: 30px;
+            overflow: auto;
+            margin-top: 2px;
+            
+        }
+       
+        
+
+        
+        #intro {
+            color: #000000;
+            margin: 30px;
+            font-size: larger;
+        }
+
+        
+
+        
+        #operations {
+            color: #000000;
+            margin: 30px;
+            font-size: larger;
+        }
+        #p2,#p3{
+            width: 45%;
+            height: 350px;
+            margin-right: 20px;
+            border:7px solid rgba(37, 37, 37, 0.873);
+         
+        }
+        #p6{
+            width: 25%;
+            height: 20%;
+            margin-right: 25px;
+            border:8px solid rgba(11, 101, 70, 0.873);
+
+        }
+        #p7{
+            width: 20%;
+            height:20%;
+            margin-right: 25px;
+            border:8px solid rgba(11, 101, 70, 0.873);
+
+        }
+
+        
+       
+        #awards {
+            color: #000000;
+            margin: 30px;
+            font-size: larger;
+            
+        }
+        #harsh{
+            width: 45%;
+            height: 350px;
+            margin-left: 20px;
+            border:7px solid rgba(5, 5, 5, 0.873);
+
+        }
+        #motto{
+            width: 45%;
+            height: 350px;
+            margin-left: 20px;
+            border:7px solid rgba(5, 5, 5, 0.873);
+
+
+        }
+
+
+        
+        
+    </style>
+    
+</head>
+
+<body>
+    <header>
+        <h1><u>Garud Commandos</u></h1>
+        
+    </header>
+    
+    <div>
+        <nav>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala.html"><b>Home</b></a>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\3airforce.html"><b>Indian Air Force</b></a>
+        
+        </nav>
+    </div>
+    
+    <div id="intro">
+        <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\kMCrKrBoR-KNftS0hJf_fcWCohYp_UB-BFq2nogPmtE.webp" id="p2">
+        <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\RCP1133-1.jpg" id="p3">
+        
+        
+        <p>
+            The Garud Commando Force is the special forces unit of the Indian Air Force. It was formed in September 2004
+            and has a current strength of over 1500 personnel. The unit derives its name from Garuda, a divine bird-like
+            creature in Indian history.
+        </p>
+        <p>
+            Garud is tasked with the protection of critical Air Force bases and installations; search and rescue during
+            peace and hostilities and disaster relief during calamities. Presently, Garuds are deployed in Congo as part
+            of the UN peace keeping operations.
+        </p>
+        <p>
+            It was formed in September , 2004 , after an attack on air bases in J&K.
+        </p>
+        <p>
+            Originally named as “Tiger Force” but later it was changed to “Garud Commando Force”
+        </p>
+        <p>
+        <h4><u> Insignia</u></h4>
+        <ul style="color: maroon;">
+            <li>Maroon Beret</li>
+            <li>Garud Commando Force Patch</li>
+            <li>Garud Logo</li>
+        </ul>
+        </p><br>
+        <h4 style="display: inline-block;"><u> Motto:-&nbsp; </u></h4><div><img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\Air-force-cs-01.webp" id="motto"></div>
+        <h4 style="display: inline-block; color: maroon;"><b>(Defence by Offence). </b></h4><br>
+        <p>
+            • There are currently around 2000 Garuds serving in IAF . <br>
+            • They have longest special forces training in the world (around 3 years). <br>
+            • They are directly recruited, unlike other special forces where only the <br> serving personnel are allowed
+            to
+            volunteer. <br>
+            • They have also been deployed in Congo as part of UN Peace Keeping Mission.
+        </p>
+        <h4><u>Roles:-</u></h4>
+        <ul>
+            <li>Airbase Defense .</li>
+            <li>Counter Terrorists</li>
+            <li>Counter Insurgency</li>
+            <li>Hostage Rescue</li>
+            <li>Direct Action</li>
+            <li>Foreign Internal Defense.</li>
+        </ul>
+        
+    </div>
+    
+    <div id="operations">
+        <h1 style="color: rgb(38, 37, 41);"><u>Operations</u></h1>
+        <p style="color: rgb(13, 21, 133);">
+            • They work very silently just as 9 Para and Marcos and most of it’s missions are confidential . They
+            suffered first causality in 2015 and it was that time when most of the people came to know
+            about there existence in J&K while in fact they are active in J&K from 2005.
+            <div class="p6">
+                <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\maxresdefault (2).jpg" id="p6" align="right">
+                
+                <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\indian-army_strength_comparison_759x422-4.jpg" id="p6" align="right">
+            </div>
+            
+        </p>
+        <p>
+            <u> Some of the known operations of Garuds</u>:-
+        <ul>
+            <li>MONUC(Congo)</li>
+            <li>Security during Aero India.</li>
+            <li>2016 Pathankot Attack .</li>
+            <li>Counter-Terrorists operation in J&K.</li>
+        </ul>
+        • They operate in squads , each squad consisting 14 commandos.
+        </p>
+        
+    </div>
+    
+    <div id="awards">
+        
+        <h1 style="color: rgb(21, 22, 24);"><u>Gallantry Awards</u></h1>
+        
+        <p>The Garuds have actively participated in counter-terrorist operations and have received many accolades which
+            include 1 Ashok Chakra, 4 Shaurya Chakras, and many Vayu Sena Medal .</p>
+        <p><b><u>Shaurya Chakra</u></b>– Corporal Devendra Mehta(2018) , Corporal Nilesh (2018,posthumous) , <br>
+            Sergeant Milind Kishor (2018, posthumous).</p>
+            <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\OIP.jpg" id="harsh">
+        <p><b><u>Ashok Chakra</u></b>– Corporal Jyoti Pakash Nirala (2018) – even the president cried after listening
+            <br> to
+            the bravery shown by his Garud while giving Ashok Chakra to his wife . He alone took <br> 4
+            terrorists down with his LMG firing it’s complete magazine of 100 bullets in single go and <br> injured
+            the other two before collapsing. His squad mates told that he was not stopping on <br> that day
+            even after the orders from his commanding officer . His mates told that he was a <br> Rambo that
+            day and he was not stopping firing even after he was hit multiple bullets. And  his finger was on
+            the trigger of the LMG even after falling.
+            <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\main-qimg-2e88f083ebf31fc685d317cc33ef734c.jpg" id="harsh">
+        </p>
+        <p><b><u>Vir Chakra</u></b>-Vir Chakra is an Indian gallantry award presented for acts of bravery on the battlefield inducted on 26 th Jan 1950. It replaced the British Distinguished Service Cross (DSC), Military Cross (MC) and Distinguished Flying Cross (DFC). The recipient uses “ Vr.C.” as a post-nominal abbreviation</p>
+        <img src="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\yudhseva_M_8102020-1.jpg" id="harsh">
+    </div>
+</body>
+
+</html>
