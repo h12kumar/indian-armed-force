@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <style>
+        body{
+            background-color:rgb(211, 159, 211)
+        }
+        header {
+            text-align: center;
+            font-size: 80px;
+            color: rgb(8, 8, 8);
+            margin-top: 33px;
+        }
+
+        .mainVeg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    }
+    img{
+    
+    width: 400px;
+    height: 200px;
+}
+.CartAdd:hover{
+     font-size: larger;
+    }
+
+.CartAdd{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: 20px;
+    text-align: center;
+    border: 5px solid rgb(81, 4, 4);
+    padding: 20px;
+    background-color: rgba(178, 190, 200, 0.695);
+}
+
+nav a {
+            font-size: 20px;
+            float: left;
+            color: #201a10;
+            text-decoration: none;
+            padding: 10px 16px;
+            background-color: #f4eded;
+            margin-bottom: 20PX;
+            margin-right: 10PX;
+        }
+
+        
+        nav {
+           
+            border-radius: 10px;
+            margin-top: 30px;
+            overflow: auto;
+            margin-top: 2px;
+            
+        }
+       
+    </style>
+    <header>
+        <u><i>WEAPONS OF INDIAN ARMY</i></u></header>
+        
+    <div>
+        <nav>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala.html"><b>Home</b></a>
+            <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\project\bala2.html"><b>Indian Army</b></a>
+             
+        </nav>
+        <div class="mainVeg">
+        
+            <div class="CartAdd">
+                <div><img src="https://i.pinimg.com/originals/95/60/45/95604574d5a56f34358fa1777d460fff.jpg" alt="veg">
+                </div>
+                <div>48 Machine Gun</div>
+                <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\48 macine gun.html">know more</a></div>
+            </div>
+            
+            <div class="CartAdd">
+                <div><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/M4_Carbine_with_M203_Grenade_Launcher.png" alt="veg">
+                </div>
+                <div>M4 Carbine</div>
+                <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\m4 carbine.html">know more</a></div>
+            </div>
+            <div class="CartAdd">
+                <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MicroTavorX95MARS-white.jpg/450px-MicroTavorX95MARS-white.jpg" alt="veg">
+                </div>
+                <div>IWIX95</div>
+                <div> <a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\IWIX95.html">know more</a></div>
+            </div>
+            <div class="CartAdd">
+                <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vidhwansak.jpg/1920px-Vidhwansak.jpg" alt="veg">
+                </div>
+                <div>VIDHWANSHAK</div>
+                <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html project\vidhwanshak.html">know more</a></div>
+            </div>
+            <div class="CartAdd">
+                <div><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/NSV_machine_gun-04.jpg" alt="veg">
+                </div>
+                <div>Nsv Machine Gun</div>
+                <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\Nsv.html">know more</a></div>
+            </div>
+            <div class="mainVeg">
+        
+                <div class="CartAdd">
+                    <div><img src="https://www.sigsauer.com/media/catalog/product/cache/2f7933e2ff16f0ec074a16ab6b6195f2/r/7/r716i-16b-trd-left-web.jpg" alt="veg">
+                    </div>
+                    <div>Sig716i</div>
+                    <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\sig.html">know more</a></div>
+                </div>
+                
+                <div class="CartAdd">
+                    <div><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/DRDO_ASMI.jpg" alt="veg">
+                    </div>
+                    <div>ASMI</div>
+                    <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\asmi.html">know more</a></div>
+                </div>
+                <div class="CartAdd">
+                    <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IWI-Tavor-TAR-21w1.jpg/1920px-IWI-Tavor-TAR-21w1.jpg" alt="veg">
+                    </div>
+                    <div>IWI Tavor TAR-21</div>
+                    <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\IMI Tavor TAR-21.html">know more</a></div>
+                </div>
+                <div class="CartAdd">
+                    <div><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Sa_58-JH04.jpg" alt="veg">
+                    </div>
+                    <div>VZ</div>
+                    <div><a href="C:\Users\Harsh kumar balaji\OneDrive\Desktop\html.lpu\html.lpu\Vz. 58.html">know more</a></div>
+                </div>
+                
+    
+</body>
+</html>
